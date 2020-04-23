@@ -1,0 +1,60 @@
+<HTML>
+
+	<HEAD>
+		<TITLE>Pagina oficial de yo soy angel calderon</TITLE>
+	</HEAD>
+	
+	<BODY BACKGROUND="fondo.jpg">
+		<B>
+		<FONT COLOR=yellow><H1 ALIGN=center>Bienvenido a mi pagina web oficial</H1></FONT>
+		<FONT COLOR=yellow><H2 ALIGN=left><A HREF="https://www.youtube.com/channel/UC0YaKxoxX1PvpJ-EBtQJ3dg">Este es mi canal dale click</H2></FONT></A>
+	
+		<P ALIGN=center>
+		<FONT COLOR=yellow><B>Hola estoy trabajando en un nuevo video.</B>Lo subire pronto porque...<B>HE VUELTO.</B></FONT>
+		</P>
+		
+		<P ALIGN=left>
+		<FONT COLOR=blue>He estado muy ocupado así que yo he aprendido muchas cosas nuevas y de eso se van a tratar los videos.</FONT>
+		</B>
+		<BR>
+		<P ALIGN=center><IMG SRC="subir.png"></P>
+		</P>
+		<HR>
+		<FONT COLOR=yellow><H2 ALIGN=center>PRIMER VIDEO</H2></FONT>
+		<P ALIGN=center><iframe width="560" height="315" src="https://www.youtube.com/embed/DaCFuNcg8sg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<FONT COLOR=yellow><H2 ALIGN=center>ULTIMO VIDEO</H2></FONT>
+		<P ALIGN=center><iframe width="560" height="315" src="https://www.youtube.com/embed/Z7-TWQy9w7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<FONT COLOR=yellow><H2 ALIGN=center>TE PUEDE SERVIR</H2></FONT>
+		<P ALIGN=center><iframe width="560" height="315" src="https://www.youtube.com/embed/ar_Fi1QSaS4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<HR>
+		<FONT COLOR=yellow><H2 ALIGN=center>JUEGO EN EL QUE TRABAJO"ES DE UN CURSO GRATIS</H2></FONT>
+		<H2><A HREF="https://studio.code.org/c/1107400712">Este es mi juego dale click</A></H2>
+		<HR>
+		<FONT COLOR=yellow><H2 ALIGN=center>Video contra el coronavirus de parte de mario"está en mi canal"</H2></FONT>
+		
+		
+		
+		
+		
+		<HR>
+		<FONT COLOR=yellow><H2 ALIGN=center>SUGERENCIAS O COMENTARIOS</H2></FONT>
+		</BODY>
+		<H2 ALIGN=center>
+		<!-- Do not change the code! -->
+		<a id="foxyform_embed_link_341175" href="http://es.foxyform.com/">foxyform</a>
+		<script type="text/javascript">
+		(function(d, t){
+		var g = d.createElement(t),
+		s = d.getElementsByTagName(t)[0];
+		g.src = "http://es.foxyform.com/js.php?id=341175&sec_hash=4c71ea6b5fc&width=350px";
+		s.parentNode.insertBefore(g, s);
+		}(document, "script"));
+		</script>
+		<!-- Do not change the code! -->
+		<HR>
+		<FONT COLOR=yellow><H2 ALIGN=center>ESTOY REALIZANDO NUEVOS VIDEOS NO OLVIDES VISITAR MI CANAL</H2></FONT>
+		
+
+	
+	
+</HTML>
